@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @magical-king03
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning using Django package in backend
+
+- Hey there! 👋 I'm Visweish, a dedicated B.Tech (CSBS) student at Sastra University with an insatiable passion for crafting innovative web apps and diving deep into the world of code. 🚀
+- 👀 I’m interested in Full stack Web development
+- 🌱 I’m currently learning the tools used in canva for graphic designing
 - 💞️ I’m looking to collaborate on both minor an major projects
+- 👨‍💻 All my projects are availabe at https://github.com/magical-king03
 - 📫 Reach me at kmvisweish@gmail.com
 
 <!---
