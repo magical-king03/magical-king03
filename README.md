@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a **Full Stack Web Developer**
 
-- 🌱 I'm currently immersed in the **fascinating realm of graphic design.** 🚀
-
 - 👨‍💻 All of my projects are available at [www.github.com/magical-king03](www.github.com/magical-king03)
 
 - 📫 You can reach me through **kmvisweish@gmail.com**
